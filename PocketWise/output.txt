@@ -1,0 +1,37 @@
+20
+30
+8
+4.5
+2
+-2.5
+27000
+4500
+2500
+2000
+1066.185464
+1000
+12000
+8000
+10000
+8
+8
+1
+4
+27000
+Symbol table:
+income = 50000
+rent = 12000
+food = 8000
+transport = 3000
+expense = 23000
+balance = 27000
+sale_price = 4500
+tax_amount = 2500
+simple_interest = 2000
+monthly_payment = 1066.185464
+payment_without_interest = 1000
+budget_ok = 1
+comparison_checks = 4
+interactive = 0
+extra_savings = 0
+total_savings = 27000

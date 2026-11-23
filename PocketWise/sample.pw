@@ -1,0 +1,44 @@
+START
+
+print 10 + 5 * 2;
+print (10 + 5) * 2;
+print 12 - 4;
+print 9 / 2;
+print 17 % 5;
+print -2.5;
+
+let income = 50000;
+let rent = 12000;
+let food = 8000;
+let transport = 2500;
+transport = transport + 500;
+let expense = rent + food + transport;
+
+let balance = savings(income, expense);
+print balance;
+print discount(5000, 10);
+print tax(50000, 5);
+print interest(10000, 10, 2);
+print emi(12000, 12, 12);
+print max(100, 200);
+print min(100, 200);
+print avg(10, 20);
+print sqrt(64);
+print pow(2, 3);
+
+if (income > expense) {
+    print 1;
+} else {
+    print 0;
+}
+
+let interactive = 0;
+let amount = 25;
+if (interactive == 1) {
+    read amount;
+}
+print amount;
+print amount * 2;
+symbols;
+
+END
